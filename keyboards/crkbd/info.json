@@ -30,5 +30,8 @@
         "enabled": true
     },
     "processor": "atmega32u4",
-    "community_layouts": [ "split_3x5_3", "split_3x6_3" ]
+    "community_layouts": [ "split_3x5_3", "split_3x6_3" ],
+    "dynamic_keymap": {
+        "layer_count": 4
+    }
 }
